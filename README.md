@@ -3,7 +3,7 @@
 Hi! I'm a Student Developer — interested in **Software, AI and Security**
 
 ### Skills
-
+---
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
