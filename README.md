@@ -1,6 +1,6 @@
 ### 👋 Glad you stopped by
 
-Hi! I'm a Student Developer — interested in **Software, AI and Security**'
+Hi! I'm a Student Developer — interested in **Software, AI and Security**
 
 ### Skills
 
